@@ -89,3 +89,5 @@ dependencies {
     androidTestImplementation "androidx.test.espresso:espresso-core:$rootProject.espresso_version"
     androidTestImplementation "androidx.test.espresso:espresso-intents:$rootProject.espresso_version"
 }
+
+apply plugin: 'com.google.gms.google-services'
